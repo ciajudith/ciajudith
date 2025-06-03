@@ -18,7 +18,7 @@
 
 ## About Me
 
-✨ I turn ideas into playful apps, data into stories, and code into creative solutions!  
+I turn ideas into playful apps, data into stories, and code into creative solutions!  
 My style is all about making tech engaging and approachable—think bright colors, bold interfaces, and code that brings joy (but works hard, too!).
 
 - 🛠️ **Flutter-ing** through cross-platform app development  
